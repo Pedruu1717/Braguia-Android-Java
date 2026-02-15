@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pedro/Desktop/Page1/app/src/main/res/drawable-nodpi/_bg__welcomepage_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/Page1/app/src/main/res/layout/welcomepage.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/_bg__home_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/_bg__login_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/_bg__registar_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/_bg__welcomepage_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/container_ek1_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/container_ek2_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/container_ek3_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/container_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/rectangle_1379_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/rectangle_1381_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/rectangle_1382_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/rectangle_1383_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-nodpi/rectangle_1384_shape.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.177" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.177" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable/rectangle_1385_shape.xml" value="0.2485" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/drawable/rectangle_1386_shape.xml" value="0.2485" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-land/activity_home.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-land/welcomepage.xml" value="0.152" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp-land/activity_home.xml" value="0.2118270079435128" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp-land/welcomepage.xml" value="0.18209876543209877" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_main_pins.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_main_trails.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_maps.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_meu_perfil.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_pin_info.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/activity_trail_info.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/content_main_pins.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/content_main_trails.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/fragment_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/fragment_item_list.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/login.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/registar.xml" value="0.2859375" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw320dp/welcomepage.xml" value="0.33" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw400dp-land/activity_home.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp-land/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp-land/welcomepage.xml" value="0.13821954484605087" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_home.xml" value="0.12" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_main_pins.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_main_trails.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_maps.xml" value="0.128515625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_meu_perfil.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_pin_info.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/activity_trail_info.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/content_main_pins.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/content_main_trails.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/fragment_item.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/fragment_item_list.xml" value="0.1390625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/login.xml" value="0.176" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/registar.xml" value="0.180440097799511" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw480dp/welcomepage.xml" value="0.1875" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw600dp-land/activity_home.xml" value="0.11566265060240964" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw600dp-land/welcomepage.xml" value="0.1606425702811245" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw600dp/activity_home.xml" value="0.1877750611246944" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw600dp/welcomepage.xml" value="0.144" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw720dp-land/activity_home.xml" value="0.1509433962264151" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw720dp-land/welcomepage.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw720dp/activity_home.xml" value="0.234375" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout-sw720dp/welcomepage.xml" value="0.161328125" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/_welcomepage.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_main.xml" value="0.1765625" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_main_pins.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_main_trails.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_maps.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_meu_perfil.xml" value="0.29022988505747127" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_new_word.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_pin_info.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/activity_trail_info.xml" value="0.1" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/content_main.xml" value="0.13638306968790082" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/content_main_pins.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/content_main_trails.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/delete_activity_main.xml" value="0.18041704442429737" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/fragment_item.xml" value="0.176" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/fragment_item_list.xml" value="0.12312954253954682" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/recyclerview_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/registar.xml" value="0.22" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/layout/welcomepage.xml" value="0.2" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/menu/menu_main.xml" value="0.20649850363403163" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
+        <entry key="..\:/Users/pedro/Desktop/TDS/Braguia/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1105" />
+        <entry key="..\:/Users/pedro/Desktop/projeto_tds/TDS/Braguia/app/src/main/res/layout/activity_trail_info.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/pedro/Desktop/projeto_tds/TDS/Braguia/app/src/main/res/layout/carousel.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/pedro/Desktop/projeto_tds/TDS/Braguia/app/src/main/res/layout/content_main.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/pedro/Desktop/projeto_tds/TDS/Braguia/app/src/main/res/layout/welcomepage.xml" value="0.5263157894736842" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

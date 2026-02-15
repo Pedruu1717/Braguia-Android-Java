@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- welcomepage strings -->
+
+    <string name="app_name">Braguia</string>
+    <string name="ek_img_content">Image</string>
+    <string name="come_ar_string">Começar</string>
+    <string name="braguia_string">BRAGUIA</string>
+
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="add_word">Add word</string>
+
+    <string name="braga_homepage_description">Braga Homepage Image</string>
+    <string name="location_icon_description">Location Icon</string>
+
+
+    <!-- home strings -->
+
+    <string name="place_name_string">Roteiros</string>
+    <string name="place_name_ek1_string"> Pontos de Interesse</string>
+    <string name="place_name_ek2_string">Galeria</string>
+    <string name="place_name_ek3_string">Histórico</string>
+    <string name="bem_vindo__string">Bem vindo!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <!-- login strings -->
+
+    <string name="email_string">Username</string>
+    <string name="login_string">Login</string>
+    <string name="password_string">Password</string>
+    <string name="registar_string">Registar</string>
+    <string name="u_registar_string"><u>Registar</u></string>
+    <string name="confirmar_password_string">Confirmar Password</string>
+    <string name="nao_tem_conta">Não tem conta?</string>
+
+
+    <!-- sample guide -->
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- O Meu Perfil strings -->
+    <string name="cancelar">Cancelar</string>
+    <string name="logout">Logout</string>
+    <string name="meu_historico">Meu Histórico</string>
+    <string name="o_meu_perfil">O Meu Perfil</string>
+
+    <string name="nome">Nome: </string>
+    <string name="email_meu_perfil">Email: </string>
+    <string name="username">"Nome de utilizador: "</string>
+    <string name="user_type">"Tipo de utilizador: "</string>
+    <string name="is_staff">"Funcionário: "</string>
+    <string name="date_joined">"Data de inscrição: "</string>
+
+    <!-- Trail Info strings -->
+    <string name="titulo">Título</string>
+    <string name="descricao">Descrição</string>
+    <string name="dificuldade">Nível de dificuldade</string>
+    <string name="duracao">Duração do percurso</string>
+    <string name="pontos_interesse">Pontos de interesse: </string>
+
+    <!-- Pin Info Strings -->
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+
+    <!-- Background Location dialog-->
+    <string name="back_title">Do you want background location?</string>
+    <string name="back_message">You can change later on the settings menu</string>
+    <string name="back_ok">Okay</string>
+    <string name="back_cancel">No, thank you</string>
+
+
+
+</resources>
